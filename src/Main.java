@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("HelloWorld");
 
+        System.out.println("HW3");
         // Переменные. Урок 2(HW3)
         // 1
         int a;
