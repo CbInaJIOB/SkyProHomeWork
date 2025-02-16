@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("HelloWorld");
+
         //1
         System.out.println("Задача 1:");
         int cost[] = {123, 456, 789, 321, 345};
