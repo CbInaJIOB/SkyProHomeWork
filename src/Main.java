@@ -35,10 +35,10 @@ public class Main {
 
         //3
         System.out.println("Задача 3:");
-        int arrSred[] = {3245, 45634, 35663, 636, 3632};
-        int sum = 0;
+        int arrSred[] = {123, 456, 789, 1234, 2345};
+        double sum = 0;
         double x;
-        int size = arrSred.length;
+        double size = arrSred.length;
         for (int i = 0; i < arrSred.length; i++) {
             sum += arrSred[i];
         }
